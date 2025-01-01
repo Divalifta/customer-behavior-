@@ -1,0 +1,5 @@
+hadoop jar /usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-*.jar \
+-input /user/vboxuser/input/updated_dataset.csv \
+-output /user/vboxuser/output \
+-mapper mapper.py \
+-reducer reducer.py
