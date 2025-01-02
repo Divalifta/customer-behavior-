@@ -1,0 +1,7 @@
+Booking Counts by Gender and Age Group:
+female-35+	19086
+none-35+	17538
+male-35+	17240
+male-18-35	9930
+none-18-35	9016
+female-18-35	8294
