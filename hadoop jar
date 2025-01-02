@@ -3,3 +3,10 @@ hadoop jar /home/vboxuser/hadoop/share/hadoop/tools/lib/hadoop-streaming-3.4.0.j
 -output /user/vboxuser/output \
 -mapper mapper.py \
 -reducer reducer.py
+
+#hadoopjarupdated
+hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
+-input /user/your_username/input/updated_dataset.csv \
+-output /user/your_username/output \
+-mapper mapper.py \
+-reducer reducer.py
