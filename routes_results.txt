@@ -1,0 +1,72 @@
+Most Popular Routes:
+Aracaju (SE)-Florianopolis (SC)	2610
+Florianopolis (SC)-Aracaju (SE)	2610
+Campo Grande (MS)-Florianopolis (SC)	2406
+Florianopolis (SC)-Campo Grande (MS)	2406
+Brasilia (DF)-Florianopolis (SC)	2335
+Florianopolis (SC)-Brasilia (DF)	2335
+Florianopolis (SC)-Recife (PE)	2266
+Recife (PE)-Florianopolis (SC)	2266
+Florianopolis (SC)-Sao Paulo (SP)	2064
+Sao Paulo (SP)-Florianopolis (SC)	2064
+Florianopolis (SC)-Natal (RN)	2029
+Natal (RN)-Florianopolis (SC)	2029
+Florianopolis (SC)-Salvador (BH)	1772
+Salvador (BH)-Florianopolis (SC)	1772
+Florianopolis (SC)-Rio de Janeiro (RJ)	1742
+Rio de Janeiro (RJ)-Florianopolis (SC)	1742
+Aracaju (SE)-Campo Grande (MS)	1638
+Campo Grande (MS)-Aracaju (SE)	1638
+Aracaju (SE)-Recife (PE)	1443
+Recife (PE)-Aracaju (SE)	1443
+Aracaju (SE)-Brasilia (DF)	1434
+Brasilia (DF)-Aracaju (SE)	1434
+Campo Grande (MS)-Recife (PE)	1341
+Recife (PE)-Campo Grande (MS)	1341
+Brasilia (DF)-Campo Grande (MS)	1323
+Campo Grande (MS)-Brasilia (DF)	1323
+Brasilia (DF)-Recife (PE)	1166
+Recife (PE)-Brasilia (DF)	1166
+Aracaju (SE)-Natal (RN)	1162
+Natal (RN)-Aracaju (SE)	1162
+Aracaju (SE)-Sao Paulo (SP)	1086
+Sao Paulo (SP)-Aracaju (SE)	1086
+Campo Grande (MS)-Sao Paulo (SP)	1076
+Sao Paulo (SP)-Campo Grande (MS)	1076
+Campo Grande (MS)-Natal (RN)	1054
+Natal (RN)-Campo Grande (MS)	1054
+Brasilia (DF)-Natal (RN)	893
+Natal (RN)-Brasilia (DF)	893
+Recife (PE)-Sao Paulo (SP)	868
+Sao Paulo (SP)-Recife (PE)	868
+Brasilia (DF)-Sao Paulo (SP)	857
+Sao Paulo (SP)-Brasilia (DF)	857
+Aracaju (SE)-Salvador (BH)	843
+Salvador (BH)-Aracaju (SE)	843
+Aracaju (SE)-Rio de Janeiro (RJ)	840
+Rio de Janeiro (RJ)-Aracaju (SE)	840
+Natal (RN)-Recife (PE)	834
+Recife (PE)-Natal (RN)	834
+Campo Grande (MS)-Salvador (BH)	726
+Salvador (BH)-Campo Grande (MS)	726
+Campo Grande (MS)-Rio de Janeiro (RJ)	707
+Rio de Janeiro (RJ)-Campo Grande (MS)	707
+Brasilia (DF)-Salvador (BH)	628
+Salvador (BH)-Brasilia (DF)	628
+Brasilia (DF)-Rio de Janeiro (RJ)	592
+Rio de Janeiro (RJ)-Brasilia (DF)	592
+Recife (PE)-Rio de Janeiro (RJ)	589
+Rio de Janeiro (RJ)-Recife (PE)	589
+Recife (PE)-Salvador (BH)	572
+Salvador (BH)-Recife (PE)	572
+Natal (RN)-Sao Paulo (SP)	544
+Sao Paulo (SP)-Natal (RN)	544
+Salvador (BH)-Sao Paulo (SP)	299
+Sao Paulo (SP)-Salvador (BH)	299
+Natal (RN)-Rio de Janeiro (RJ)	283
+Rio de Janeiro (RJ)-Natal (RN)	283
+Rio de Janeiro (RJ)-Sao Paulo (SP)	276
+Sao Paulo (SP)-Rio de Janeiro (RJ)	276
+Natal (RN)-Salvador (BH)	254
+Salvador (BH)-Natal (RN)	254
+from-to	1
