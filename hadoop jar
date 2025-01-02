@@ -8,5 +8,5 @@ hadoop jar /home/vboxuser/hadoop/share/hadoop/tools/lib/hadoop-streaming-3.4.0.j
 hadoop jar $HADOOP_HOME/share/hadoop/tools/lib/hadoop-streaming-*.jar \
 -input /user/vboxuser/input/updated_dataset.csv \
 -output /user/vboxuser/output \
--mapper mapper.py \
--reducer reducer.py
+-mapper /home/vboxuser/mapper.py \
+-reducer /home/vboxuser/reducer.py
