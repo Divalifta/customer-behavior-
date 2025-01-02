@@ -1,0 +1,28 @@
+female	Florianopolis (SC)	5816
+female	Aracaju (SE)	3760
+female	Campo Grande (MS)	3302
+female	Brasilia (DF)	3137
+female	Recife (PE)	3048
+female	Sao Paulo (SP)	2459
+female	Natal (RN)	2411
+female	Salvador (BH)	1733
+female	Rio de Janeiro (RJ)	1714
+gender	to	1
+male	Florianopolis (SC)	6037
+male	Aracaju (SE)	3631
+male	Campo Grande (MS)	3334
+male	Brasilia (DF)	2925
+male	Recife (PE)	2908
+male	Natal (RN)	2488
+male	Sao Paulo (SP)	2409
+male	Salvador (BH)	1759
+male	Rio de Janeiro (RJ)	1679
+none	Florianopolis (SC)	5371
+none	Aracaju (SE)	3665
+none	Campo Grande (MS)	3635
+none	Brasilia (DF)	3166
+none	Recife (PE)	3123
+none	Sao Paulo (SP)	2202
+none	Natal (RN)	2154
+none	Rio de Janeiro (RJ)	1636
+none	Salvador (BH)	1602
