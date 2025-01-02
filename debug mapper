@@ -1,0 +1,31 @@
+import sys
+
+for line in sys.stdin:
+    print(f"DEBUG: Input Line: {line.strip()}")  # Debug input lines
+
+    # Skip the header
+    if line.startswith("company"):
+        continue
+
+    data = line.strip().split(",")
+    print(f"DEBUG: Parsed Data: {data}")  # Debug parsed data
+
+    if len(data) < 12:  # Check if all fields are present
+        print("DEBUG: Skipping line due to insufficient fields.")
+        continue
+
+    try:
+        # Extract fields
+        route = f"{data[4]}-{data[5]}"
+        user = data[1]
+        revenue = float(data[7])
+        distance = float(data[10])
+        flight_price = float(data[8])
+
+        # Emit key-value pairs
+        print(f"{route}\t1")
+        print(f"{user}\t{revenue}")
+        print(f"{distance}\t{flight_price}")
+    except ValueError as e:
+        print(f"DEBUG: Skipping line due to ValueError: {e}")
+        continue
